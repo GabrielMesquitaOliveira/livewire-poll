@@ -41,7 +41,7 @@
     </div>
 
     <div>
-        <h2>View Polls</h2>
+        <h2 class="mt">View Polls</h2>
         @livewire('polls')
     </div>
 </body>
